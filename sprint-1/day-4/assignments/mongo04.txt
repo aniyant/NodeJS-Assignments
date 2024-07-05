@@ -1,0 +1,265 @@
+Most Popular Project
+Question: Formulate a query to find the project with the highest budget by joining the Projects collection with the Departments collection, summarizing the total number of projects per department, and limiting the result to the department with the highest budget project.
+
+Ans: db.Projects.aggregate([
+  {
+    $lookup: {
+      from: "Departments",
+      localField: "department",
+      foreignField: "_id",
+      as: "department"
+    }
+  },
+  {
+    $unwind: "$department"
+  },
+  {
+    $sort: { budget: -1 }
+  },
+  {
+    $limit: 1
+  }
+]);
+
+Employees in Engineering Department
+Question: Write a MongoDB query to list all employees working in the 'Engineering' department, sorted by their hire date in ascending order.
+Answer: db.Employees.find({ department_id: 103 }).sort({ hire_date: 1 });
+
+Finance Department Projects
+Question: Create a query to list all projects in the 'Finance' department, sorted by budget in descending order.
+Answer: db.Projects.find({ department: 102 }).sort({ budget: -1 });
+
+Recent Sales by Finance Employees
+Question: Formulate a query to list all sales made by employees in the 'Finance' department since "2023-09-15", sorted by sale date in ascending order.
+Answer: db.Sales.aggregate([
+  {
+    $match: {
+      sale_date: { $gte: ISODate("2023-09-15") }
+    }
+  },
+  {
+    $lookup: {
+      from: "Employees",
+      localField: "employee_id",
+      foreignField: "_id",
+      as: "employee"
+    }
+  },
+  {
+    $unwind: "$employee"
+  },
+  {
+    $match: { "employee.department_id": 102 }
+  },
+  {
+    $sort: { sale_date: 1 }
+  }
+]);
+
+Project Details for Employee 'John Doe'
+Question: To find all projects associated with 'John Doe', including project name, budget, and department name.
+Answer: db.Employees.aggregate([
+  {
+    $match: { name: "John Doe" }
+  },
+  {
+    $lookup: {
+      from: "Projects",
+      localField: "projects",
+      foreignField: "_id",
+      as: "projects"
+    }
+  },
+  {
+    $lookup: {
+      from: "Departments",
+      localField: "projects.department",
+      foreignField: "_id",
+      as: "departments"
+    }
+  }
+]);
+
+Employees and Their Office Address for 'Payroll Software' Project
+Question: Create a query to list all employees working on the 'Payroll Software' project with their office addresses.
+Answer:db.Projects.aggregate([
+  {
+    $match: { name: "Payroll Software" }
+  },
+  {
+    $lookup: {
+      from: "Employees",
+      localField: "_id",
+      foreignField: "projects",
+      as: "employees"
+    }
+  },
+  {
+    $lookup: {
+      from: "Offices",
+      localField: "office_id",
+      foreignField: "_id",
+      as: "office"
+    }
+  },
+  {
+    $unwind: "$employees"
+  },
+  {
+    $unwind: "$office"
+  },
+  {
+    $project: {
+      "employee_name": "$employees.name",
+      "office_address": "$office.address"
+    }
+  }
+]);
+
+Detailed Sales Report for 'Engineering' Employees
+Question: Formulate a query to generate a detailed sales report for each sale made by employees in the 'Engineering' department, including employee name, sale amount, and office address.
+Answer: db.Sales.aggregate([
+  {
+    $match: { sale_date: { $gte: ISODate("2023-09-15") } }
+  },
+  {
+    $lookup: {
+      from: "Employees",
+      localField: "employee_id",
+      foreignField: "_id",
+      as: "employee"
+    }
+  },
+  {
+    $unwind: "$employee"
+  },
+  {
+    $match: { "employee.department_id": 103 }
+  },
+  {
+    $lookup: {
+      from: "Offices",
+      localField: "employee.office_id",
+      foreignField: "_id",
+      as: "office"
+    }
+  },
+  {
+    $unwind: "$office"
+  },
+  {
+    $project: {
+      "employee_name": "$employee.name",
+      "sale_amount": "$amount",
+      "office_address": "$office.address"
+    }
+  },
+  {
+    $sort: { sale_date: 1 }
+  }
+]);
+
+Top Selling Employees in Each Department
+Question: Write a query to identify the top-selling employee in each department based on total sales amount, sorting the results by department name.
+Answer: db.Sales.aggregate([
+  {
+    $lookup: {
+      from: "Employees",
+      localField: "employee_id",
+      foreignField: "_id",
+      as: "employee"
+    }
+  },
+  {
+    $unwind: "$employee"
+  },
+  {
+    $lookup: {
+      from: "Departments",
+      localField: "employee.department_id",
+      foreignField: "_id",
+      as: "department"
+    }
+  },
+  {
+    $group: {
+      _id: "$department.name",
+      top_employee: { $max: { employee_name: "$employee.name", total_sales: "$amount" } }
+    }
+  },
+  {
+    $sort: { "_id": 1 }
+  }
+]);
+
+Average Salary by Department
+Question: Create a query to calculate the average salary of employees in each department, sorting the results by average salary in descending order.
+Answer: db.Employees.aggregate([
+  {
+    $group: {
+      _id: "$department_id",
+      avg_salary: { $avg: "$salary" }
+    }
+  },
+  {
+    $lookup: {
+      from: "Departments",
+      localField: "_id",
+      foreignField: "_id",
+      as: "department"
+    }
+  },
+  {
+    $sort: { avg_salary: -1 }
+  }
+]);
+
+Most Involved Employees in Projects by Department
+Question: Formulate a query to find the employee with the highest number of projects in each department, including the employee's name, number of projects, and department name, sorted by the number of projects in descending order.
+Answer: db.Employees.aggregate([
+  {
+    $unwind: "$projects"
+  },
+  {
+    $group: {
+      _id: { department_id: "$department_id", employee_id: "$_id" },
+      count: { $sum: 1 }
+    }
+  },
+  {
+    $sort: { count: -1 }
+  },
+  {
+    $group: {
+      _id: "$_id.department_id",
+      top_employee: { $first: { employee_id: "$_id.employee_id", num_projects: "$count" } }
+    }
+  },
+  {
+    $lookup: {
+      from: "Employees",
+      localField: "top_employee.employee_id",
+      foreignField: "_id",
+      as: "employee"
+    }
+  },
+  {
+    $unwind: "$employee"
+  },
+  {
+    $lookup: {
+      from: "Departments",
+      localField: "_id",
+      foreignField: "_id",
+      as: "department"
+    }
+  },
+  {
+    $project: {
+      "department_name": { $arrayElemAt: ["$department.name", 0] },
+      "employee_name": "$employee.name",
+      "num_projects": "$top_employee.num_projects"
+    }
+  }
+]);
+
