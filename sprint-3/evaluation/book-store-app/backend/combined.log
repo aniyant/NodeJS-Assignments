@@ -1,0 +1,355 @@
+2024-07-08T13:08:24.734Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:08:24.739Z [32minfo[39m: Server is running on por3000
+2024-07-08T13:08:51.065Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:08:51.070Z [32minfo[39m: Server is running on port3000
+2024-07-08T13:08:54.856Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:08:54.864Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:13:03.465Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:13:03.471Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:13:17.480Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:13:17.487Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:13:45.306Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:13:45.311Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:14:07.725Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:14:07.730Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:14:51.899Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:14:51.904Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:15:13.444Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:15:13.453Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:15:19.017Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:15:19.025Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:15:23.428Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:15:23.432Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:17:20.862Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:17:20.867Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:17:22.979Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:17:22.984Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:24:36.616Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:24:36.621Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:24:58.667Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:24:58.672Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:25:13.679Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:25:13.684Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:25:21.203Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:25:21.212Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:25:28.880Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:25:28.889Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:25:31.974Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:25:31.979Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:25:40.713Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:25:40.720Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:25:45.657Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:25:45.662Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:26:15.173Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:26:15.178Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:26:32.840Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:26:32.845Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:28:28.421Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:28:28.430Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:28:40.950Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:28:40.958Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:29:03.532Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:29:03.537Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:29:21.196Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:29:21.201Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:30:03.914Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:30:03.921Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:30:21.810Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:30:21.815Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:30:43.619Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:30:43.624Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:30:51.902Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:30:51.916Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:30:56.127Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:30:56.141Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:30:59.249Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:30:59.254Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:33:17.207Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:33:17.218Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:33:36.289Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:33:36.303Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:35:16.131Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:35:16.136Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:45:06.590Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:45:06.595Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:45:27.417Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:45:27.423Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:45:42.682Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:45:42.691Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:46:06.724Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:46:06.730Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:46:10.207Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:46:10.212Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:46:14.451Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:46:14.457Z [32minfo[39m: Server is running on port =3000
+2024-07-08T13:47:25.117Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T13:47:25.123Z [32minfo[39m: Server is running on port =3000
+2024-07-08T14:25:49.901Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T14:25:49.906Z [32minfo[39m: Server is running on port =3000
+2024-07-08T18:07:21.784Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T18:07:21.792Z [32minfo[39m: Server is running on port =3000
+2024-07-08T18:10:13.167Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T18:10:13.172Z [32minfo[39m: Server is running on port =3000
+2024-07-08T18:10:50.202Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T18:12:47.937Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T18:12:47.947Z [32minfo[39m: Server is running on port =3000
+2024-07-08T18:19:38.966Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T18:19:38.982Z [32minfo[39m: Server is running on port =3000
+2024-07-08T18:20:29.670Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-08T18:20:29.680Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:34:35.990Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:34:35.994Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:36:42.282Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:36:42.287Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:36:47.258Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:36:47.264Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:37:24.684Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:37:24.697Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:37:47.515Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:37:47.520Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:39:39.528Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:39:39.533Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:40:25.848Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:40:25.854Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:40:28.862Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:40:28.868Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:41:14.649Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:41:14.654Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:41:29.610Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:41:29.622Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:41:45.234Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:41:45.239Z [32minfo[39m: Server is running on port =3000
+2024-07-11T09:53:51.559Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-11T09:53:51.569Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:19:26.284Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:19:26.289Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:50:05.792Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:50:05.797Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:50:30.442Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:50:30.452Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:50:33.868Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:50:33.874Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:50:42.229Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:50:42.236Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:53:09.849Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:53:09.855Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:56:36.281Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:56:36.286Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:57:11.909Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:57:11.914Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:58:16.696Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:58:16.702Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:58:47.869Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:58:47.874Z [32minfo[39m: Server is running on port =3000
+2024-07-14T17:58:53.508Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T17:58:53.516Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:00:30.829Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:00:30.833Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:00:37.101Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:00:37.113Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:00:42.976Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:00:42.981Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:00:47.402Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:00:47.409Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:01:24.577Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:01:24.581Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:01:29.382Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:01:29.396Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:02:51.034Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:02:51.040Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:03:03.330Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:03:03.335Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:03:31.036Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:03:31.043Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:03:39.125Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:03:39.136Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:04:40.282Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:04:40.288Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:04:47.408Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:04:47.412Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:06:05.800Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:06:05.805Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:06:12.825Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:06:12.829Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:08:40.585Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:08:40.589Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:13:53.512Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:13:53.517Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:15:16.811Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:15:16.815Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:15:21.768Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:15:21.775Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:15:46.231Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:15:46.236Z [32minfo[39m: Server is running on port =3000
+2024-07-14T18:16:20.744Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T18:16:20.748Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:24:43.398Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:24:43.403Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:26:10.605Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:26:10.609Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:26:16.567Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:26:16.572Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:26:22.121Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:26:22.125Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:30:29.476Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:30:29.481Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:30:33.105Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:30:33.113Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:34:21.204Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:34:21.224Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:35:28.740Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:35:28.748Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:36:23.255Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:36:23.260Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:41:50.039Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:41:50.043Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:42:28.488Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:42:28.493Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:46:35.785Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:46:35.791Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:49:41.468Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:49:41.473Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:53:15.535Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:53:15.539Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:53:18.891Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:53:18.895Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:53:33.574Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:53:33.580Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:53:46.897Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:53:46.904Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:54:21.825Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:54:21.831Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:54:40.986Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:54:41.000Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:54:45.660Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:54:45.664Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:55:05.834Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:55:05.839Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:55:10.496Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:55:10.501Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:55:13.631Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:55:13.640Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:55:20.347Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:55:20.352Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:56:26.581Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:56:26.585Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:57:45.866Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:57:45.870Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:59:23.648Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:59:23.655Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:59:37.538Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:59:37.542Z [32minfo[39m: Server is running on port =3000
+2024-07-14T19:59:48.380Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T19:59:48.385Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:00:10.903Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:00:10.907Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:00:22.598Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:00:22.604Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:00:41.940Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:00:41.948Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:00:48.489Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:00:48.493Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:03:47.561Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:03:47.566Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:04:16.167Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:04:16.173Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:07:16.400Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:07:16.405Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:08:41.701Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:08:41.705Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:09:39.598Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:09:39.605Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:11:03.753Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:11:03.758Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:11:27.882Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:11:27.887Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:11:35.966Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:11:35.973Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:11:42.392Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:11:42.398Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:11:58.872Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:11:58.877Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:12:11.745Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:12:11.751Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:13:14.313Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:13:14.318Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:14:12.828Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:14:12.834Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:15:15.584Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:15:15.589Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:16:04.472Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:16:04.476Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:17:54.250Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:17:54.255Z [32minfo[39m: Server is running on port =3000
+2024-07-14T20:19:52.266Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T20:19:52.271Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:54:34.053Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:54:34.059Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:57:01.738Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:57:01.744Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:57:14.890Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:57:14.897Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:57:19.041Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:57:19.046Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:57:32.934Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:57:32.944Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:58:02.477Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:58:02.484Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:58:30.092Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:58:30.097Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:58:52.451Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:58:52.456Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:59:21.479Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:59:21.489Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:59:27.597Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:59:27.605Z [32minfo[39m: Server is running on port =3000
+2024-07-14T21:59:58.277Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T21:59:58.287Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:00:06.700Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:00:06.709Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:00:10.521Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:00:10.527Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:00:15.922Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:00:15.929Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:00:24.255Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:00:24.261Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:00:28.837Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:00:28.842Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:01:56.774Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:01:56.779Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:02:07.767Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:02:07.773Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:02:31.473Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:02:31.478Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:02:39.097Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:02:39.104Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:02:45.598Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:02:45.604Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:02:49.524Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:02:49.556Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:02:59.156Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:02:59.161Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:04:05.146Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:04:05.151Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:04:10.852Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:04:10.858Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:10:31.211Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:10:31.216Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:10:33.853Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:10:33.858Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:10:59.251Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:10:59.256Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:12:46.845Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:12:46.851Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:14:47.625Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:14:47.631Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:15:16.674Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:15:16.679Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:19:08.117Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:19:08.125Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:19:10.957Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:19:10.962Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:20:07.785Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:20:07.789Z [32minfo[39m: Server is running on port =3000
+2024-07-14T22:35:39.818Z [32minfo[39m: Sql & MongoDB connection established
+2024-07-14T22:35:39.823Z [32minfo[39m: Server is running on port =3000
